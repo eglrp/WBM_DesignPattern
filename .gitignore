@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+#Others
+WBM_DesignPattern/
+WBM_DesignPattern.*
